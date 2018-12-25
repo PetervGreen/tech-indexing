@@ -2,7 +2,41 @@
 
 ## Wikipedia
 
+### Software
+
+https://en.wikipedia.org/wiki/Indexing_Software
+
+https://www.asindexing.org/reference-shelf/software/
+
+http://help.madcapsoftware.com/flare2018r2/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm
+
+https://www.indexres.com/cindex-downloads
+
+for conversion of existing printed indexes to import into indexing program Cindex recomends:
+
+https://sullivanindex.com
+
+https://sullivanindex.com/index-conversions-faqs
+
+https://sullivanindex.com/conversion-pricing USD $150 for 11,000 entries plus $40 per hour to cleanup input
+
+https://sullivanindex.com/index-conversions
+
+
+
+### Other
+
+https://en.wikipedia.org/wiki/Cataloging
+
 https://en.wikipedia.org/wiki/Guide_to_information_sources
+
+https://en.wikipedia.org/wiki/List_of_important_publications_in_economics
+
+https://en.wikipedia.org/wiki/Metabibliography
+
+https://en.wikipedia.org/wiki/Wikipedia:List_of_bibliographies
+
+
 
 ## Books
 
