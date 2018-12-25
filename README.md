@@ -3,7 +3,7 @@ Technical support for indexing
 
 Notes and links to software relevant to the various types of bibliographic indexing that will be needed.
 
-Unlikely to do serious development but hope to find good solutions elsewhere and contribute notes for oour own configuration that might also be useful for incorporation in the documentation of other projects.
+Unlikely to do serious development but hope to find good solutions elsewhere and contribute notes for our own configuration that might also be useful for incorporation in the documentation of other projects.
 
 ## Requirements
 
@@ -31,4 +31,4 @@ Some key requirements include:
 
 ## References
 
-[[references.md]] has list of relevant books, wikipedia articles etc.
+[References](references.md) has list of relevant books, wikipedia articles etc.
