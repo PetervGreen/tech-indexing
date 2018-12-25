@@ -7,7 +7,7 @@ Unlikely to do serious development but hope to find good solutions elsewhere and
 
 ## Requirements
 
-Some key requirements include:
+Some key general bibliographic requirements include:
 
 1. Maintain and publish various bibliographies that will be the focus of landing spots and collaboration, with unique keys in a master index so that draft papers can easily incorporate references. Presumably using Zotero and pandoc.
 
@@ -28,6 +28,19 @@ Some key requirements include:
 9. Tools for readers using databases of combined ToCs to easily find corresponding citation to page numbers in a different edition from that provided. Also used for automation in connection with editorial preparation of combined indexs of collections.
 
 10. Tools for inserting ToCs and indexes as live links within and between existing versions of ebooks.
+
+## Monitoring Requirements
+
+Continuous monitoring of backward citations is entral for optimal planning of activities. Key requirements include automatically building databases and displaying trends from:
+
+1. Tracking authors, subjects and journals of interest via backwards citations indexes like Web of Science and Scopus and perhaps more specialized indexes.
+
+2. Similar lookups through APIs for arxive.org, SSRN, Google Scholar etc.
+
+3. General search engine references from blogs, social media etc not necessarily caught by academic indexing.
+
+4. Analytics of access to our own landing spots, archives etc, especially collecting referral URLs to success in getting links from other sites.
+
 
 ## References
 
