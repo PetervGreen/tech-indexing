@@ -65,6 +65,29 @@ There are also various proposed and accepted extensions for both XProc and XSLT:
 http://exproc.org
 http://exslt.org
 
+## BaseX
+
+I am assuming optimum combination is with both Eclipse IDE and oXygen.
+
+But docs are confusing:
+
+http://docs.basex.org/wiki/Integrating_oXygen
+
+Says to use XQJ for XQuery. But this only supports 1.0?
+
+XQDT supports XQuery 3+ and oXygen Enterprise edition uses it to connect to Marklogic.
+
+BaseX uses it to integrate with Eclipse:
+
+http://docs.basex.org/wiki/Integrating_Eclipse
+
+Both docs may be out of date. Eclipse IDE 2018-12 includes DLTK so no need to install it.
+
+Is there some way to use XQDT for oXygen direct to BaseX without needing Enterprise edition?
+
+If so BaseX should document it.
+
+Otherwise I assume best to use Eclipse plugin version of oXygen connected by XQDT to BaseX.
 
 
 
