@@ -10,13 +10,35 @@ Use of DITA with ingestion of all texts to an XML database should be sufficient 
 
 This is a supplementary reason for using DITA.
 
+Some software:
+
+https://en.m.wikipedia.org/wiki/Computer-assisted_translation
+
+https://en.m.wikipedia.org/wiki/Swordfish_Translation_Editor
+
+https://www.maxprograms.com/products/swordfish.html
+
+https://www.maxprograms.com/products/fluenta.html
+
+
+## Glossaries and Terminology
+
 In addition a focus on thorough preparations of domain glossaries could be helpful for translation.
 
 Consider using translation related standards such as GlossML and TBX as well the use of formal Ontology software and UML informaton models for domain modeling.
 
+## Simplified English
+
 Finally, DITA could help with preparing Simplified English versions of english materials that could result in better machine translations to other translations, in conjunction with multilingual glossaries of special terms.
 
+https://en.wikipedia.org/wiki/Simplified_Technical_English
+
 There are software tools for checking use of some forms of Simplified English and adequacy of the related glossaries.
+
+https://www.simplifiedenglish.net/hyperste/
+
+
+## Standards
 
 For standards and industry information see:
 
