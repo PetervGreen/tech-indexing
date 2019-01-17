@@ -1,7 +1,6 @@
 # Computational Thinking
 
-https://www.cs.cmu.edu/link/research-notebook-computational-
-thinking-what-and-why
+https://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why
 
 @article{Wing-2008,
 doi	= {10.1098/rsta.2008.0118},
@@ -17,10 +16,10 @@ day	= {28},
 volume	= {366},
 issue	= {1881},
 page	= {3717--3725},
-url =       {http://gen.lib.rus.ec/scimag/index.php?s=10.1098/rsta.2008.0118},
+url =       {http://gen.lib.rus.ec/scimag/index.php?s=10.1098/rsta.2008.0118 },
 }
 
-Cited in:
+Cited in chapter 1 of:
 
 https://www.taylorfrancis.com/books/9780815393825
 
