@@ -29,7 +29,7 @@ Consider using translation related standards such as GlossML and TBX as well the
 
 ## Simplified English
 
-Finally, DITA could help with preparing Simplified English versions of english materials that could result in better machine translations to other translations, in conjunction with multilingual glossaries of special terms.
+Finally, DITA could help with preparing Simplified English versions of english materials that could result in better machine translations to other languages, in conjunction with multilingual glossaries of special terms.
 
 https://en.wikipedia.org/wiki/Simplified_Technical_English
 
