@@ -2,7 +2,65 @@
 
 https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture
 
+## OASIS
+
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita
+
+Currently at 1.3 errata 2 2018-06-19.
+
+http://docs.oasis-open.org/dita/dita/v1.3/errata02/os/complete/part3-all-inclusive/dita-v1.3-errata02-os-part3-all-inclusive-complete.pdf
+
+via
+
+http://docs.oasis-open.org/dita/dita/v1.3/errata02/os/complete/part3-all-inclusive/dita-v1.3-errata02-os-part3-all-inclusive-complete.html
+
+Working on incompatible 2.0 so also follow that work.
+
+https://github.com/oasis-tcs/dita/projects/2
+
+### LwDITA
+
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita-lightweight-dita
+
+Currently at 1.0 committee note cn02.
+
+There is also a potentially relevant "Technical Communication" subcommittee which has not done much yet:
+
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=dita-techcomm
+
+https://wiki.oasis-open.org/dita/TechCommSubcommittee#preview
+
+## Community
+
+https://dita.xml.org
+
+Has lots of information and a (Yahoo group) user forum.
+
+## DITA Open Toolkit
+
+https://www.dita-ot.org
+
+At 3.2.1 see online docs. Only found userguide.pdf for 3.1
+
+## DITA for Publishers
+
+http://www.dita4publishers.org
+
+Still at 1.0RC26 2018-11-07 with latest EPUB transforms "Open Toolkit 2.5.4 and 3.2, although it has not been extensively tested".
+
+Users guide pdf and epub still at RC25 2016-09-16 includes Word2DITA enhancements but check latest online.
+
+https://github.com/dita4publishers/dita4publishers/releases/download/1.0.0RC25/d4p-users-guide.pdf
+
 ## Books
+
+https://www.amazon.com/DITA-Print-Toolkit-Workbook-Second/dp/1937434540/
+
+https://www.amazon.com/DITA-Practitioners-1-Architecture-Technology/dp/1937434060/
+
+https://www.amazon.com/Introduction-DITA-Second-Information-Architecture/dp/0977863433/
+
+See also Amazon "DITA", "LwDITA" and related items.
 
 (SpringerBriefs in Applied Sciences and Technology) Sissi Closs (auth.)-DITA – the Topic-Based XML Standard_ A Quick Start-Springer International Publishing (2016).pdf
 
