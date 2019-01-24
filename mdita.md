@@ -58,8 +58,8 @@ to produce a map with a title, and an unordered list (itself containing a nested
 titles for topics and their associated file names.
 
 # Remote Lighting Network
-- [Introduction](introduction.md)
-- [Alternative lighting setups](alternatives.md)
-- [Low power installation](low-power.md)
-- [High power installation](high-power.md)
+  - [Introduction](introduction.md)
+  - [Alternative lighting setups](alternatives.md)
+    - [Low power installation](low-power.md)
+    - [High power installation](high-power.md)
 
