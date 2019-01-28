@@ -1,14 +1,22 @@
 # JATS
 
-Support for Journal Article Publishing suite is main immediate necessity so working papers get picked up by archives and indexing. Initially designed for publishers to provide version of record to archives. Now becoming dominant form for scientific articles. Will do separate bibliography.
+Support for Journal Article Publishing suite is main immediate necessity so working papers get picked up by archives and indexing. Initially designed for publishers to provide version of record to archives. Now becoming dominant form for scientific articles. Will do separate bibliography. Meanwhile wiki page below has useful links. 
 
 ## JATSKit
 
 This looks like a plausible starting point. Works with oXygen. Author/editor needs to have licensed copy (USD $100 for academic institution).
 
+oXygen editor includes this framework:
+
+https://www.oxygenxml.com/doc/versions/20.1/ug-editor/topics/author-jats-doc-type.html
+
+So installation instruction below only needed for installing latest development version instead of current stable version.
+
 Article explaining what this is about:
 
 https://www.ncbi.nlm.nih.gov/books/NBK350379/
+
+Note: above article is published in an ebook style. Clicking the cogwheel icon for settings generates a printable version that can be printed locally to pdf. Both are generated from same static web site using the JATS standard and software promoted by the US National Center for Biomedical Information which published the article. Aim is to use JATSKit and related software to produce similar documents online.
 
 Video demo of installing a framework in oXygen:
 
@@ -17,7 +25,7 @@ https://www.oxygenxml.com/demo/FrameworkConfiguration.html
 Above starts with explanation of what any framework adds to simply using an XML editor.
 
 Later includes full details for adding customizations to oXygen. It is worth knowing about the possiibility of doing customizations for later but actual installation of either the stable or latest version is much simpler using the
-installation link below.
+installation link below and unnecessary since already included with oXygen.
 
 See all wiki pages for documentation:
 
@@ -33,7 +41,7 @@ and note limitations:
 
 https://github.com/wendellpiez/JATSKit/wiki/Limitations
 
-Will need to find solution for pdf output. But learning how to install and use this looks like good starting point for anything else.
+Will need to find solution for pdf output limitation if not already fixed. But learning how to install and use this looks like good starting point for anything else.
 
 ## Markdown
 
