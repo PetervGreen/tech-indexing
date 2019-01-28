@@ -1,6 +1,18 @@
 # JATS
 
-Support for Journal Article Publishing suite is main immediate necessity so working papers get picked up by archives and indexing. Initially designed for publishers to provide version of record to archives. Now becoming dominant form for scientific articles. Will do separate bibliography. Meanwhile wiki page below has useful links. 
+Support for Journal Article Tag Suite is main immediate necessity so working papers get picked up by archives and indexing. Initially designed for publishers to provide "version of record" for archives. Now becoming dominant form for scientific articles. 
+
+https://jats.nlm.nih.gov
+
+The JATS-List is probably the place to search for answers and then to ask questions:
+
+https://jats.nlm.nih.gov
+
+But first see its FAQ link which in turn links to:
+
+http://www.mulberrytech.com/JATS/
+
+Will do separate bibliography. Meanwhile wiki page below has useful links. 
 
 ## JATSKit
 
@@ -64,4 +76,17 @@ Support for writing small markdown topics separately and using dita maps etc to 
 
 Assumption: it will be easier to figure out how to do this using DITA-OT to output a single normalized LwDITA markdown document and then convert to JATS XML using pandoc.
 
-Meanwhile can still start writin small topic files and combine them manually into draft papers for input to pandoc.
+Meanwhile can still start writing small topic files and combine them manually into draft papers for input to pandoc.
+
+Not found anything on LwDITA in search of JATS-List.
+
+## Tools
+
+Jatswiki.org is down. Last update to list of tools was 2017-10-30 archived six months later:
+
+http://web.archive.org/web/20180426004313/http://jatswiki.org/wiki/Tools
+
+Still useful but out of date so need to find a list that is continuously updated.
+
+
+
