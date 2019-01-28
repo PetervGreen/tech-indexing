@@ -18,14 +18,17 @@ https://www.ncbi.nlm.nih.gov/books/NBK350379/
 
 Note: above article is published in an ebook style. Clicking the cogwheel icon for settings generates a printable version that can be printed locally to pdf. Both are generated from same static web site using the JATS standard and software promoted by the US National Center for Biomedical Information which published the article. Aim is to use JATSKit and related software to produce similar documents online.
 
-Video demo of installing a framework in oXygen:
+
+Article links to descriiption of customized implementation for a journal publisher.
+
+Also links to video demo of installing a framework in oXygen which is well worth watching:
 
 https://www.oxygenxml.com/demo/FrameworkConfiguration.html
 
 Above starts with explanation of what any framework adds to simply using an XML editor.
 
-Later includes full details for adding customizations to oXygen. It is worth knowing about the possiibility of doing customizations for later but actual installation of either the stable or latest version is much simpler using the
-installation link below and unnecessary since already included with oXygen.
+Later includes full details for adding customizations to oXygen. It is worth knowing about the possiibility of doing customizations for later but actual installation of either the stable or latest version of JATSKit is much simpler using the
+installation link below and unnecessary since JATSKit is now included with oXygen.
 
 See all wiki pages for documentation:
 
@@ -45,11 +48,15 @@ Will need to find solution for pdf output limitation if not already fixed. But l
 
 ## Markdown
 
-Will need separate support for use of markdown both to draft and collaborate on initial text quickly and to include references from shared Zotero bibliography.
+Will need separate support for use of markdown both for drafting and collaboration revising initial drafts quickly and to include references from shared Zotero bibliography.
 
 Assumption: this will use pandoc with zotxt to generate an XML file that can then be enhanced and published using oXygen and JATSKit as above. It should be relatively easy to sort that out once we have actual experience with JATSKit above.
 
 Use of pandoc-jats (with Zotero) would be next priority after familiarizing with installed JATSKit.
+
+Other journals may require different citation styles from those for NCBI submissions included with JATSKit. Pandoc can use any journal's CSL file as supported by  Zotero. 
+
+Note: There may complications as pandoc-jats uses a special "XML" citation style,
 
 ## DITA
 
