@@ -6,11 +6,15 @@ No updates since 2017-04-07 pre-release 0.97 but still looks like best starting 
 
 https://github.com/dita-for-small-teams/dita-for-small-teams/releases
 
+None of the previous 6 forks of main repository are updated more recently:
+
+https://github.com/dita-for-small-teams/dita-for-small-teams/network/members
+
 Suggests (and provides a docker configuration ready to go) for exactly
 the same software stack I had in mind:
 
-- GitLab with CI/CD
-- BaseX with XQuery XML database
+- GitLab with CI/CD (or any git with CI/CD)
+- BaseX with XQuery 3 XML database
 - oXygen XML Editor
 - DT-OT
 
@@ -78,4 +82,7 @@ Main documentation here:
 http://www.d4st.org/d4st-docker/index.html
 
 
+The main repository includes the others as sub-modules. I have forked it here:
+
+https://github.com/thecapitalistcycle/dita-for-small-teams
 
