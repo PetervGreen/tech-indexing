@@ -86,3 +86,32 @@ The main repository includes the others as sub-modules. I have forked it here:
 
 https://github.com/thecapitalistcycle/dita-for-small-teams
 
+There are 7 d4st docker files here:
+
+https://hub.docker.com/search?q=d4st&type=image
+
+Including update of DITA OT five months ago.
+
+Not checked GitLab carefully for related projects.
+
+Also need to check DITA community.
+
+## GitLab
+
+Most frightening aspect looks like use of dockerized GitLab Community Edition.
+
+This is major. I had in mind just being GitLab users. Local version needed for private stuff in enterprises but I 
+thought it would require extensive system administration that can be avoided for open publishing.
+
+But project does seem to be actively maintained and popular:
+
+https://github.com/sameersbn/docker-gitlab
+
+## oXygen
+
+Uses web author version. This suits orientation to Windows/Mac technical writers.
+
+Our orientation is for most writing in LwDITA markdown with licensed oXygen editor only needed for maps and final editing by an editor more familiar with DITA. Not sure how to handle this. Will also want JATS.
+
+https://github.com/sameersbn/docker-gitlab
+
