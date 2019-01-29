@@ -2,15 +2,20 @@
 
 This project appears to be exactly what I have been looking for.
 
-But no updates since 2017?
+No updates since 2017-04-07 pre-release 0.97 but still looks like best starting point.
 
-Even suggests (and provides a docker configuration ready to go) for 
+https://github.com/dita-for-small-teams/dita-for-small-teams/releases
+
+Suggests (and provides a docker configuration ready to go) for exactly
 the same software stack I had in mind:
 
 - GitLab with CI/CD
 - BaseX with XQuery XML database
 - oXygen XML Editor
 - DT-OT
+
+Writing this without looking at code. 
+Not sure whether it uses Eclipse plugin for oXygen but specifically mentions XQuery 3.1.
 
 https://github.com/dita-for-small-teams
 
@@ -47,7 +52,9 @@ can be run on a single personal machine, on a shared server machine within an en
 such as Amazon Web Services or Microsoft Azure with a minimum of effort."
 
 This is encouraging but refers to a small enterprise team preparing technical documentation, who presumably have 
-access to IT skills and/or support.
+access to IT skills and/or support. My guess is that this does indeed make it "as easy as it can be" and is therefore
+the best starting point. But it will require more than a few hours getting up to speed, especially from a pre-release
+version that is currently not visibly under active development.
 
 Also additional work will be required for our immediate need to integrate with Zotero and JATS and eventually for 
 exploratory animations. But essentially this confirms feasability.
@@ -55,5 +62,20 @@ exploratory animations. But essentially this confirms feasability.
 Found via this paper and slides:
 
 https://www.balisage.net/Proceedings//vol15/html/Kimber01/BalisageVol15-Kimber01.html
+
+Note links for:
+
+- print/mobile (print this to pdf file)
+  * https://www.balisage.net/Proceedings//vol15/print/Kimber01/BalisageVol15-Kimber01.html
+- epub
+  * https://www.balisage.net/Proceedings//vol15/epub/Kimber01/BalisageVol15-Kimber01.epub
+- slides and materials (start here for overview)
+  * https://www.balisage.net/Proceedings//vol15/author-pkg/Kimber01/hyperdocument-management-no-ki-magic.zip
+  
+
+Main documentation here:
+
+http://www.d4st.org/d4st-docker/index.html
+
 
 
