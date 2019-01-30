@@ -1,6 +1,12 @@
 # JATS
 
-Support for Journal Article Tag Suite is main immediate necessity so working papers get picked up by archives and indexing. Initially designed for publishers to provide "version of record" for archives. Now becoming dominant form for scientific articles. 
+Support for Journal Article Tag Suite is main immediate necessity so working papers get picked up by archives and indexing. Initially designed for publishers to provide "version of record" for archives. Now becoming dominant form for scientific articles.
+
+## "JATS is how the world publishes journals"
+
+Full details and links:
+
+https://www.balisage.net/Proceedings/vol22/html/Usdin01/BalisageVol22-Usdin01.html
 
 https://jats.nlm.nih.gov
 
