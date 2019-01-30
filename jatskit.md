@@ -18,7 +18,18 @@ But first see its FAQ link which in turn links to:
 
 http://www.mulberrytech.com/JATS/
 
-Will do separate bibliography. Meanwhile wiki page below has useful links. 
+Will do separate bibliography. Meanwhile above have useful links.
+
+## JATS4R reuse
+
+https://jats4r.org/so-you-want-to-adopt-jats-what-decisions-do-you-need-to-make
+
+http://www.balisage.net/Proceedings/vol15/html/Beck01/BalisageVol15-Beck01.html
+
+https://github.com/jats4r/validator
+
+https://jats4r.org/tools
+
 
 ## JATSKit
 
