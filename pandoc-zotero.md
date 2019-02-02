@@ -26,6 +26,15 @@ Some journals may (as Modelewski, 1967 noted at p35-6) prefer stupid inline cita
 
 Adaptations for that should be considered later when we actually have to deal with it. Meanwhile footnotes are simpler.
 
-I assume zotxt would be used to pull citations from Zotero into the markdown file
+I assume zotxt would be used to pull citations from Zotero into the markdown file.
 
-I assume pandoc-cite would be used together with CSL stylesheets specific to each journal.
+https://github.com/egh/zotxt
+
+This has features for including page numbers and other text together with the citation that I do not understand and
+may also be relevant to inline citations.
+
+I assume pandoc-citeproc would be used together with CSL stylesheets specific to each journal.
+
+https://github.com/jgm/pandoc-citeproc/blob/master/man/pandoc-citeproc.1.md
+
+
