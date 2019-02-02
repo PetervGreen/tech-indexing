@@ -2,6 +2,10 @@
 
 Most of our work will be preparing bibliographies using Zotero with plugins and previewing working papers drafted in pandoc markdowm with plugins.
 
+Start here:
+
+https://github.com/pandoc-scholar/pandoc-scholar
+
 https://www.zotero.org/support/plugins
 
 https://www.zotero.org/support/
@@ -16,8 +20,15 @@ to acquire some up to date experience in order to get things right.
 Drafts would be kept in a repository here and could be edited through the browser here or preferably with an editor like
 Atom after pulling to writer's local platform.
 
-The words "I assume" below imply "I don't know". Hopefully trying things out will clarify. Otherwise these will be replaced
-with more detailed numbered questions for posting to places where somebody might now.
+There are many plugins for Atom, including the following specifically for markdown:
+
+https://github.com/topics/atom-package?q=markdown&unscoped_q=markdown
+
+and for git:
+
+https://github.com/topics/atom-package?q=git&unscoped_q=git
+
+The words "I assume" below imply "I don't know". Hopefully trying things out will clarify. Otherwise any remaining assumptions will be replaced with more detailed numbered questions for posting to places where somebody might now.
 
 While reading docs on pandoc, zotero and other items mentioned below, please note the relevant issue trackers or other such
 places where we can hope for answers and add the links here.
@@ -29,8 +40,7 @@ I assume our bibliographies will include all possible information about each cit
 ## Zotero
 
 Bibliographies and drafting should be kept completely separate. If a new citation is found while drafting it should be added
-to a specific Zotero bibliography and assigned a short key to use in the draft. If a doi, ISBN etc is available I assume this can
-be used within Zotero to automatically add all fields. If necessary an incomplete stub should be put in Zotero to be 
+to a specific Zotero bibliography and assigned a short key to use in the draft. If a doi, ISBN etc is available I assume this can be used within Zotero to automatically add all fields. If necessary an incomplete stub should be put in Zotero to be 
 completed later. We always eventually find and include all such fields as doi, isbn and md5 (from Library Genesis) to be able
 to retrieve and update full details later.
 
@@ -128,7 +138,7 @@ https://github.com/dita-for-small-teams
 
 plus custom XSL to output JATS.
 
-No point thinking about it until are confident with Zotero, Pandoc and JATS.
+No point thinking about it until we are confident with Zotero, Pandoc and JATS.
 
 However I will be pointlessly "thinking about it" while writing actual content in small markdown topics for sections and
 glossary entries etc in the hope that these could eventually be turned into MDITA for LwDITA instead of just cut and pasted.
@@ -157,7 +167,13 @@ https://github.com/sameersbn/docker-gitlab
 
 that is a major part of d4st.
 
-Understanding the installation for d4st is less daunting if you are aware it is avoiding having to do the full installation for the above.
+Another, bigger, component of GitLab is:
+
+https://github.com/sameersbn/docker-postgresql
+
+Understanding the installation for d4st is less daunting if you are aware it is avoiding having to do the full installation for the above but only the specific tweaks they mention.
+
+Trying out the above components first may be helpful (or may not).
 
 But I would take this slowly, reading up on all the new concepts rather than blindly following. We won't be able to use it for quite a while and any experience with Zotero/pandoc/JATS will be higher priority.
 
